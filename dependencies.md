@@ -1,5 +1,5 @@
 # Google Apps Script Project: TestPromises
-This repo (TestPromises) was automatically updated on 27 July 2016 10:37:05 BST by GasGit
+This repo (TestPromises) was automatically updated on 31 October 2018 11:42:08 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project TestPromises
@@ -10,15 +10,18 @@ The shared link for [TestPromises is here](https://script.google.com/d/1Toeob7tH
 *name*|*type*
 --- | --- 
 Code| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cPromisePolyfill| cPromisePolyfill|MfZp_89LhuhiFvEH_ry05PCz3TLx7pV4j|3|no|[here](libraries/cPromisePolyfill "library source")
+cPromisePolyfill| cPromisePolyfill|1Y4Pk4YKhVgAEh-4mxOZxQ1_6jlMA8FN_wvKfF0gf_AiXoLL2hRWUchV1|3|no|[here](libraries/cPromisePolyfill "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cPromisePolyfill| cPromisePolyfill|MfZp_89LhuhiFvEH_ry05PCz3TLx7pV4j|3|no|[here](libraries/cPromisePolyfill "library source")
+cPromisePolyfill| cPromisePolyfill|1Y4Pk4YKhVgAEh-4mxOZxQ1_6jlMA8FN_wvKfF0gf_AiXoLL2hRWUchV1|3|no|[here](libraries/cPromisePolyfill "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
