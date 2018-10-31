@@ -1,0 +1,11 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "cPromisePolyfill",
+      "libraryId": "1Y4Pk4YKhVgAEh-4mxOZxQ1_6jlMA8FN_wvKfF0gf_AiXoLL2hRWUchV1",
+      "version": "3"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
